@@ -59,6 +59,27 @@ Make sure your MongoDB instance is running. If you're using MongoDB Atlas, ensur
 - **Admin Notifications:** Admins can add and manage notifications for students and faculty, including alerts for low attendance, upcoming deadlines, and important announcements.
 - **Responsive Design:** Access the portal on any device with a fully responsive design.
 
+## Team
+**INNOVATEHER** - The team behind the SMIT Attendance Management Portal.
+
+# User Registration and Login Details
+
+## Admin Login Details
+
+- **Email:** admin@example.com  
+- **Password:** admin_password  
+
+## Teacher Login Details
+
+- **Email:** teacher@example.com  
+- **Password:** t_password  
+
+## Student Login Details
+
+- **Roll No:** 11  
+- **Email:** student@example.com  
+- **Password:** stu_password  
+
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any features, bug fixes, or improvements.
 
