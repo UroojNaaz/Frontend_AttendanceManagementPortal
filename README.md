@@ -62,7 +62,7 @@ Make sure your MongoDB instance is running. If you're using MongoDB Atlas, ensur
 ## Team
 **INNOVATEHER** - The team behind the SMIT Attendance Management Portal.
 
-# User Registration and Login Details
+# User Login Details
 
 ## Admin Login Details
 
