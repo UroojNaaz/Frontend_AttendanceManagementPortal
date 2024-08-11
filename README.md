@@ -77,7 +77,7 @@ Make sure your MongoDB instance is running. If you're using MongoDB Atlas, ensur
 ## Student Login Details
 
 - **Roll No:** 11  
-- **Email:** student@example.com  
+- **Name:** Student 
 - **Password:** stu_password  
 
 ## Contributing
